@@ -1,2 +1,4 @@
 # u-repair
-URepair project for CS 320 at the University of Massachusetts Amherst
+
+Website to assist in the maintenance of equipment at the UMass recreation center   
+
